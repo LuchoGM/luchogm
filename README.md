@@ -9,5 +9,5 @@
 - ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 - ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 ### Me podes encontrar en:
- - ![Discord](https://img.shields.io/badge/As_LuchoMansilla5357-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)
+ - ![Discord](https://img.shields.io/badge/As_luchomansilla-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)
  - [![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white)](https://steamcommunity.com/profiles/76561199144214616/)
