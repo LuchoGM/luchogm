@@ -10,4 +10,5 @@
 - ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 ### Me podes encontrar en:
  - ![Discord](https://img.shields.io/badge/As_luchomansilla-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)
- - [![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white)](https://steamcommunity.com/profiles/76561199144214616/)
+ - [![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white)](https://steamcommunity.com/profiles/76561199144214616/)(CSGO)
+ - [![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white)](https://steamcommunity.com/id/luchomansilla/)(GENERAL)
